@@ -1,0 +1,7 @@
+1:Teh Teck Huat:huat:333:Male:UCDF1905ICTSE:huat@gmail.com:0197736726:Head of Librarian
+2:John Wong:john:111:Male:UCDF1904ICT:johnnwong@gmail.com:0178273388:Librarian
+3:Amy Chang:amy:000:Female:UCDF1905ICT:amychang@gmail.com:0197725600:Head of Librarian
+4:Synthia Chia:synthia:888:Female:UCDF1905ICT:synthiachia@yahoo.com:0178264536:Librarian
+5:Ng Hui Ying:hy:999:Female:UCDF1905ICTITR:huiying@gmail.com:0172738927:Librarian
+6:Lee Sin Yin:sy:0806:Female:UCDF1905ICTITR:sinyin@gmail.com:0128937766:Librarian
+7:Goh Shieh Rou:sr:1:Female:UCDF1905ICTSE:shiehrou@gmail.com:0186727332:Librarian

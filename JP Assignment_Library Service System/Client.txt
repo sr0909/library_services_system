@@ -1,0 +1,7 @@
+1:Kelly Lim:Female:UCDF1904ICTSE:kellylim@gmail.com:0128786779:Student
+2:Lim Hui Yu:Female:-:junniee@yahoo.com:0195547283:Staff
+3:Chu Win Zhe:Male:UCDF1905ICT:leonchu@gmail.com:0167284409:Student
+4:Junnie Lim:Female:UCDF1905ICTSE:junnie@gmail.com:0187873344:Student
+5:Lim Bing Sen:Male:UCDF1905ICT:bingsen@gmail.com:0189862288:Student
+0:Ang Jia Yi:Female:-:jiayi0630@gmail.com:0178239922:Staff
+1:Johnny Wong:Male:UCDF1905ICT:john@gmail.com:0198787766:Student

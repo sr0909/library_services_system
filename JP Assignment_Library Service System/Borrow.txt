@@ -1,0 +1,6 @@
+1:A Phython-Based Introduction:Kelly Lim:06-03-2021:20-03-2021:Returned:0:-:-:07-03-2021
+2:A Phython-Based Introduction:Chu Win Zhe:18-02-2021:04-03-2021:Returned:0:-:Paid:11-03-2021
+3:The 7 Habits of Highly Effective People:Chu Win Zhe:20-02-2021:06-03-2021:Returned:0:-:Paid:18-03-2021
+4:Fahrenheit 451:Chu Win Zhe:10-03-2021:24-03-2021:Overdue:1:31-03-2021:Unpaid:-
+5:A Phython-Based Introduction:Ang Jia Yi:03-03-2021:17-03-2021:Returned:0:-:Paid:30-03-2021
+6:Your Computer Is on Fire:Kelly Lim:30-03-2021:13-04-2021:Returned:1:20-04-2021:-:30-03-2021
